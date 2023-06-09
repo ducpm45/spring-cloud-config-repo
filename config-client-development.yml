@@ -1,10 +1,5 @@
 text:
   greeting: HELLO WORLD
-spring:
-  datasource:
-    username: root
-    password: 123456
-    driver-class-name: com.mysql.cj.jdbc.Driver
 user:
   name: ducpm45
   role: Developer
